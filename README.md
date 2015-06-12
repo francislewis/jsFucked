@@ -1,6 +1,6 @@
 # JSFucked `[]()!+`
 
-JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
+>JSFuck is an esoteric and educational programming style based on the >atomic parts of JavaScript. It uses only six different characters to write >and execute code.
 
 JSFucked is that same esoteric and educational programming style, but it is being ran on that same style. If you convert JS into fucked JS, only 6 characters will make that transformation.
 
